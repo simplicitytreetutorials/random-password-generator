@@ -13,7 +13,8 @@ El repositorio contiene los siguientes archivos y carpetas:
   - `styles.css`: Archivo de hoja de estilos que da estilo a la interfaz de usuario.
 - `js/`: Carpeta que contiene la lógica de la aplicación.
   - `app.js`: Archivo JavaScript donde escribiremos las funcionalidades del generador de contraseñas.
-  - ## Instalación
+
+## Instalación
 
 Para probar la aplicación en tu máquina local, sigue estos pasos:
 
