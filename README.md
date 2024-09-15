@@ -26,4 +26,11 @@ Para probar la aplicación en tu máquina local, sigue estos pasos:
 
 ¡Las contribuciones son bienvenidas! Si tienes ideas o sugerencias de mejoras, siéntete libre de abrir un issue o enviar un pull request.
 ## Licencia
-Este proyecto está bajo la Licencia MIT.
+
+Este proyecto está bajo la Licencia MIT. Puedes usarlo y modificarlo como desees, pero recuerda dar crédito si lo utilizas públicamente.
+
+## Contacto
+
+Si tienes alguna pregunta o duda, no dudes en contactarnos a través de nuestro sitio web https://simplicitytree.com o mediante nuestro canal de YouTube.
+
+¡Gracias por visitar este repositorio y espero que encuentres útil el tutorial!
