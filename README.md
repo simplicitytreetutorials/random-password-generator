@@ -18,10 +18,7 @@ El repositorio contiene los siguientes archivos y carpetas:
 Para probar la aplicación en tu máquina local, sigue estos pasos:
 
 1. Clona este repositorio en tu máquina.
-   ```bash
-   git clone https://github.com/tu-usuario/nombre-del-repositorio.git   
 2. Navega a la carpeta del proyecto.
-cd nombre-del-repositorio
 4. Abre el archivo index.html en tu navegador web.
 
 ## Contribuciones
