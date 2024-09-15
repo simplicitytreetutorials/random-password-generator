@@ -1,0 +1,62 @@
+/*
+ * Proyecto: Generador de contraseñas 
+ * Autor: Orlando José-Rivera
+ * Sitio web: https://simplicitytree.com
+ * Fecha de creación: 15 de septiembre de 2024
+ * Licencia: MIT
+ *
+ * * Este archivo contiene los estilos básicos y generales 
+ * que se aplican al sitio web. 
+ */
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #e9ecef;
+}
+.container {
+    background: white;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    width: 550px;
+}
+input[type="text"],
+input[type="number"] {
+    width: 100%;
+    padding: 10px 0;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    margin: 20px 0;
+}
+button {
+    padding: 16px 15px;
+    font-size: 16px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    width: 100%;
+}
+button:hover {
+    background-color: #218838;
+}
+.options {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 12px 0 33px;
+}
+.options label {
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+    font-size: 14px;
+}
